@@ -7,7 +7,7 @@ A portfolio website built with React.js that showcases all of Te Wei's coding pr
 https://tw2159.github.io/ReactPortfolio/
 
 ## Screenshot
-![Screenshots](./assets/Screenshot.png)
+![Screenshots](./src/assets/Screenshot.png)
 
 ## Built With
 * HTML
