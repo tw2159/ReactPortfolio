@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.72812c3f.css",
+    "main.js": "/ReactPortfolio/static/js/main.248d5f9b.js",
+    "static/media/computer-circuit-bg.png": "/ReactPortfolio/static/media/computer-circuit-bg.3a8e7ab3caf88db9bdb6.png",
+    "static/media/run-buddy.jpg": "/ReactPortfolio/static/media/run-buddy.f015cf93e17b5bb0eff9.jpg",
+    "static/media/horiseon.jpg": "/ReactPortfolio/static/media/horiseon.288971f65ab9e71e8007.jpg",
+    "static/media/movie-dashboard.jpg": "/ReactPortfolio/static/media/movie-dashboard.d0c7eafe9165bf759b6a.jpg",
+    "static/media/te.jpg": "/ReactPortfolio/static/media/te.52b2f6b2358ea97233ef.jpg",
+    "static/media/weather-dashboard.jpg": "/ReactPortfolio/static/media/weather-dashboard.2ba19aa65cd0e526efa4.jpg",
+    "static/media/resume.pdf": "/ReactPortfolio/static/media/resume.65eeb8b6f6b74efeda5e.pdf",
+    "static/media/team-profile-generator.jpg": "/ReactPortfolio/static/media/team-profile-generator.253fa061211ea7d37497.jpg",
+    "static/media/work-day-scheduler.jpg": "/ReactPortfolio/static/media/work-day-scheduler.eba0cabdde1101a7c4d1.jpg",
+    "static/media/movie-talk.jpg": "/ReactPortfolio/static/media/movie-talk.8ebadb2f81781bc2cac7.jpg",
+    "static/media/password-generator.jpg": "/ReactPortfolio/static/media/password-generator.9cb7a721c182e8dbc08c.jpg",
+    "static/media/tech-blog.jpg": "/ReactPortfolio/static/media/tech-blog.21f280ffccd85427b262.jpg",
+    "static/media/note-taker.jpg": "/ReactPortfolio/static/media/note-taker.f83ea6869ca9ecaff635.jpg",
+    "static/media/code-quiz.jpg": "/ReactPortfolio/static/media/code-quiz.ebb18e90d19e3cd36838.jpg",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.72812c3f.css.map": "/ReactPortfolio/static/css/main.72812c3f.css.map",
+    "main.248d5f9b.js.map": "/ReactPortfolio/static/js/main.248d5f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72812c3f.css",
+    "static/js/main.248d5f9b.js"
+  ]
+}
