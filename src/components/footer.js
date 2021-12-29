@@ -18,7 +18,7 @@ function Footer() {
     <footer>
       <ul>
         {icons.map((icon, index) => 
-          <li>
+          <li key={index}>
             <a href={icon.link} key={index}>
               <i className={icon.class}></i>
             </a>

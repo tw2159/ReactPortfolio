@@ -39,7 +39,7 @@ function Contact() {
         <h4>Contact</h4>
         <form id="contact-form" onSubmit={handleSubmit}>
           <div className="form-group">
-            <label for="name">Name:</label>
+            <label htmlFor="name">Name:</label>
             <input
               type="text"
               className="form-control"
@@ -50,7 +50,7 @@ function Contact() {
             />
           </div>
           <div className="form-group">
-            <label for="email">E-mail:</label>
+            <label htmlFor="email">E-mail:</label>
             <input
               type="email"
               className="form-control"
@@ -61,7 +61,7 @@ function Contact() {
             />
           </div>
           <div className="form-group">
-            <label for="message">Message:</label>
+            <label htmlFor="message">Message:</label>
             <textarea
               rows="5"
               className="form-control"
