@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.72812c3f.css",
-    "main.js": "/ReactPortfolio/static/js/main.248d5f9b.js",
+    "main.css": "/ReactPortfolio/static/css/main.acea8aef.css",
+    "main.js": "/ReactPortfolio/static/js/main.5de77627.js",
     "static/media/computer-circuit-bg.png": "/ReactPortfolio/static/media/computer-circuit-bg.3a8e7ab3caf88db9bdb6.png",
     "static/media/run-buddy.jpg": "/ReactPortfolio/static/media/run-buddy.f015cf93e17b5bb0eff9.jpg",
     "static/media/horiseon.jpg": "/ReactPortfolio/static/media/horiseon.288971f65ab9e71e8007.jpg",
@@ -17,11 +17,11 @@
     "static/media/note-taker.jpg": "/ReactPortfolio/static/media/note-taker.f83ea6869ca9ecaff635.jpg",
     "static/media/code-quiz.jpg": "/ReactPortfolio/static/media/code-quiz.ebb18e90d19e3cd36838.jpg",
     "index.html": "/ReactPortfolio/index.html",
-    "main.72812c3f.css.map": "/ReactPortfolio/static/css/main.72812c3f.css.map",
-    "main.248d5f9b.js.map": "/ReactPortfolio/static/js/main.248d5f9b.js.map"
+    "main.acea8aef.css.map": "/ReactPortfolio/static/css/main.acea8aef.css.map",
+    "main.5de77627.js.map": "/ReactPortfolio/static/js/main.5de77627.js.map"
   },
   "entrypoints": [
-    "static/css/main.72812c3f.css",
-    "static/js/main.248d5f9b.js"
+    "static/css/main.acea8aef.css",
+    "static/js/main.5de77627.js"
   ]
 }
