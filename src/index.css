@@ -147,6 +147,15 @@ nav a:hover {
   background-color: #b5179e;
   transition: all 0.3s ease;
 }
+.githubLink {
+  background-color: #f72585;
+  color: #fff;
+  font-size: 22px;
+  padding: 2px 8px;
+  position: absolute;
+  right: 0;
+  top: 6px;
+}
 .project-info {
   background-color: #256ff7;
   bottom: 10px;
