@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.b48f36e4.css",
-    "main.js": "/ReactPortfolio/static/js/main.5de77627.js",
+    "main.js": "/ReactPortfolio/static/js/main.82f8bb7b.js",
+    "static/media/movie-search-engine.jpg": "/ReactPortfolio/static/media/movie-search-engine.a9345d2f2a8445d540da.jpg",
     "static/media/computer-circuit-bg.png": "/ReactPortfolio/static/media/computer-circuit-bg.3a8e7ab3caf88db9bdb6.png",
     "static/media/run-buddy.jpg": "/ReactPortfolio/static/media/run-buddy.f015cf93e17b5bb0eff9.jpg",
     "static/media/horiseon.jpg": "/ReactPortfolio/static/media/horiseon.288971f65ab9e71e8007.jpg",
@@ -18,10 +19,10 @@
     "static/media/code-quiz.jpg": "/ReactPortfolio/static/media/code-quiz.ebb18e90d19e3cd36838.jpg",
     "index.html": "/ReactPortfolio/index.html",
     "main.b48f36e4.css.map": "/ReactPortfolio/static/css/main.b48f36e4.css.map",
-    "main.5de77627.js.map": "/ReactPortfolio/static/js/main.5de77627.js.map"
+    "main.82f8bb7b.js.map": "/ReactPortfolio/static/js/main.82f8bb7b.js.map"
   },
   "entrypoints": [
     "static/css/main.b48f36e4.css",
-    "static/js/main.5de77627.js"
+    "static/js/main.82f8bb7b.js"
   ]
 }
