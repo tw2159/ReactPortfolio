@@ -16,6 +16,16 @@ function Portfolio() {
       <div className="content">
         <h4>Portfolio</h4>
         <ul>
+        <li>
+            <a href="https://github.com/tw2159/movie-search-engine" class="githubLink" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
+            <a href="https://blooming-stream-54961.herokuapp.com/" target="_blank" rel="noreferrer">
+              <img src={movieSearchEngine} alt="" className="screenshot" />
+              <div className="project-info">
+                <span>Movie Search Engine</span>
+                <span className="project-details">Interactive Front- and Back-End Project</span>
+              </div>
+            </a>
+          </li>
           <li>
             <a href="https://github.com/tw2159/movie-talk" class="githubLink" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
             <a href="https://whispering-mountain-31913.herokuapp.com/" target="_blank" rel="noreferrer">
