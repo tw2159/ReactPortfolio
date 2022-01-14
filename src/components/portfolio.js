@@ -9,6 +9,7 @@ import codeQuiz from "../assets/code-quiz.jpg";
 import passwordGenerator from "../assets/password-generator.jpg";
 import horiseon from "../assets/horiseon.jpg";
 import runBuddy from "../assets/run-buddy.jpg";
+import movieSearchEngine from "../assets/movie-search-engine.jpg";
 
 function Portfolio() {
   return(
